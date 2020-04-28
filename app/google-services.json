@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "834979410075",
+    "firebase_url": "https://authentication-66966.firebaseio.com",
+    "project_id": "authentication-66966",
+    "storage_bucket": "authentication-66966.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834979410075:android:b77a0886d0c7b55ea1163e",
+        "android_client_info": {
+          "package_name": "edmt.dev.authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834979410075-pb2p0v4l000o5ppdip1kcr229rqtesrq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edmt.dev.authentication",
+            "certificate_hash": "813c4a7a4c000854401bbd735d7f0c45758b0664"
+          }
+        },
+        {
+          "client_id": "834979410075-bhvrpkgedhdghbou0ga0odepu4eu4jgu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0bsX0_Rbl5IPwuUGqEgjjcXmkTq1iflc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834979410075-bhvrpkgedhdghbou0ga0odepu4eu4jgu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
